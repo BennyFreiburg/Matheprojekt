@@ -1,2 +1,2 @@
-# Mahteprojekt
+# Matheprojekt
 Matheprojekt
